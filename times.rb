@@ -7,3 +7,4 @@ end
 
 
 puts "We used Wingardium Leviosa 7 times"
+end
