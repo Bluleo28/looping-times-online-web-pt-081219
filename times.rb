@@ -1,5 +1,6 @@
 def using_time
 
-7.using_times do
+7.times do
 puts"Wingardium Leviosa"
+using_time
 end
