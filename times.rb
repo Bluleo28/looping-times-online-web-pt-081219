@@ -1,6 +1,6 @@
-def (using_time =) 7
+def using_time
 
-7. times do
-  puts "Wingardium Leviosa"
+7.timesdo
+puts"Wingardium Leviosa"
   
 end
