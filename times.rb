@@ -4,3 +4,4 @@ def using_time
 puts"Wingardium Leviosa"
 using_time=7
 end
+end
