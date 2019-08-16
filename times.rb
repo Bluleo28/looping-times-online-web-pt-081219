@@ -2,5 +2,5 @@ def using_time
 
 7.times do
 puts"Wingardium Leviosa"
-using_time=notusing_time + 7
+using_time=using_time - 7
 end
